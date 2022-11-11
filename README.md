@@ -5,12 +5,10 @@ ON
 “Typing Speed Calculator”
 
 
-
-
-Submitted to
+# Submitted to
 “Cherry Khosla”
 
-Submitted by
+# Submitted by
 S. No.	Name	Roll No.	Registration No.
 1	Aadi Padamwar	RK21GPA22	12105265
 2	Himanshu Sharma	RK21GPB46	12107151
@@ -221,7 +219,6 @@ Website
 •	https://geekyhumans.com/test-your-typing-speed-using-python/ 
 
 
-GITHUB LINK 
 
 
 
