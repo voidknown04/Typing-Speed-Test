@@ -9,9 +9,11 @@ ON
 “Cherry Khosla”
 
 # Submitted by
-S. No.	Name	Roll No.	Registration No.
+
 1	Aadi Padamwar	RK21GPA22	12105265
+
 2	Himanshu Sharma	RK21GPB46	12107151
+
 3	Anjali Singh	RK21GPB51	12112761
 
 Index
